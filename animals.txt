@@ -1,0 +1,15 @@
+Lion 85
+Zebra 23
+Elephant 100
+Giraffe 56
+Tiger 78
+Penguin 45
+Kangaroo 67
+Panda 12
+Hyena 91
+Otter 33
+Flamingo 5
+Crocodile 98
+Meerkat 60
+Rhino 29
+Koala 0
